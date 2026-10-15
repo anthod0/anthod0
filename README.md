@@ -2,7 +2,7 @@
 
 **AI builder** | **Indie hacker**
 
-I like owning products end to end, and most of what I build started as something I wanted for my own setup. Currently a product engineer at Reela, working across product, development, and ops.
+I like owning products end to end, and most of what I build started as something I wanted for my own setup. Product engineer at Reela.
 
 ## What I build
 
