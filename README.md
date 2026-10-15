@@ -27,7 +27,7 @@ TypeScript · MIT
 - A set of lightweight, composable pi extensions.
 - 11 packages on npm.
 
-### [better-skills](https://github.com/anthod0/better-skills) — package manager for agent skills (`bsk`)
+### [better-skills](https://github.com/anthod0/better-skills)
 
 TypeScript, Bun · MIT
 
