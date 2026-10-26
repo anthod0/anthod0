@@ -6,26 +6,11 @@
 </a>
 
 <p align="right">
-  <a href="https://x.com/anthod0"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/x-dark.svg">
-    <img src="./assets/badges/x-light.svg" alt="X: @anthod0" height="28">
-  </picture></a>
-  <a href="https://reela.com/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/reela-dark.svg">
-    <img src="./assets/badges/reela-light.svg" alt="Work: Reela" height="28">
-  </picture></a>
-  <a href="https://pontia.dev/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/pontia-dark.svg">
-    <img src="./assets/badges/pontia-light.svg" alt="Build: Pontia" height="28">
-  </picture></a>
-  <a href="https://github.com/anthod0/skills"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/skills-dark.svg">
-    <img src="./assets/badges/skills-light.svg" alt="Repo: skills" height="28">
-  </picture></a>
-  <a href="https://github.com/anthod0/dotfiles"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dotfiles-dark.svg">
-    <img src="./assets/badges/dotfiles-light.svg" alt="Repo: dotfiles" height="28">
-  </picture></a>
+<a href="https://x.com/anthod0"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/x-dark.svg"><img src="./assets/badges/x-light.svg" alt="X: anthod0" width="13.00%" height="28"></picture></a>
+<a href="https://reela.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/reela-dark.svg"><img src="./assets/badges/reela-light.svg" alt="Work: Reela" width="10.05%" height="28"></picture></a>
+<a href="https://pontia.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/pontia-dark.svg"><img src="./assets/badges/pontia-light.svg" alt="Build: Pontia" width="11.11%" height="28"></picture></a>
+<a href="https://github.com/anthod0/skills"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/skills-dark.svg"><img src="./assets/badges/skills-light.svg" alt="Repo: skills" width="10.52%" height="28"></picture></a>
+<a href="https://github.com/anthod0/dotfiles"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dotfiles-dark.svg"><img src="./assets/badges/dotfiles-light.svg" alt="Repo: dotfiles" width="12.88%" height="28"></picture></a>
 </p>
 
 ## What I build
