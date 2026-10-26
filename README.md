@@ -1,8 +1,32 @@
-# Hi, I'm anthod
+<a href="https://github.com/anthod0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero.svg" alt="anthod. Product engineer at Reela. The model is the easy part. I build the harness." width="100%">
+  </picture>
+</a>
 
-**AI builder** | **Indie hacker**
-
-I like owning products end to end, and most of what I build started as something I wanted for my own setup. Product engineer at Reela.
+<p align="right">
+  <a href="https://x.com/anthod0"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/x-dark.svg">
+    <img src="./assets/badges/x-light.svg" alt="X: @anthod0" height="28">
+  </picture></a>
+  <a href="https://reela.com/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/reela-dark.svg">
+    <img src="./assets/badges/reela-light.svg" alt="Work: Reela" height="28">
+  </picture></a>
+  <a href="https://pontia.dev/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/pontia-dark.svg">
+    <img src="./assets/badges/pontia-light.svg" alt="Build: Pontia" height="28">
+  </picture></a>
+  <a href="https://github.com/anthod0/skills"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/skills-dark.svg">
+    <img src="./assets/badges/skills-light.svg" alt="Repo: skills" height="28">
+  </picture></a>
+  <a href="https://github.com/anthod0/dotfiles"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/dotfiles-dark.svg">
+    <img src="./assets/badges/dotfiles-light.svg" alt="Repo: dotfiles" height="28">
+  </picture></a>
+</p>
 
 ## What I build
 
@@ -25,7 +49,7 @@ I like owning products end to end, and most of what I build started as something
 TypeScript · MIT
 
 - A set of lightweight, composable pi extensions.
-- 11 packages on npm.
+- 12 packages on npm.
 
 ### [better-skills](https://github.com/anthod0/better-skills)
 
@@ -48,7 +72,5 @@ TypeScript, Bun · MIT
 
 ## Also
 
-- [skills](https://github.com/anthod0/skills) — personal agent skill suite for development, with evaluation.
-- [dotfiles](https://github.com/anthod0/dotfiles) — personal development environment: Arch and Fedora, Neovim, tmux, AGENTS.md, niri, terminal theming, and more.
 - [singBoost](https://github.com/anthod0/singBoost) — minimal Windows tray launcher for the sing-box core.
 - [product-intel-workflow](https://github.com/anthod0/product-intel-workflow) — Grok Build workflow that turns a product repo into a product-intelligence pack with a dashboard.
